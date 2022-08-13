@@ -1,0 +1,7 @@
+license.txt
+setup.py
+combinatorics/__init__.py
+combinatorics.egg-info/PKG-INFO
+combinatorics.egg-info/SOURCES.txt
+combinatorics.egg-info/dependency_links.txt
+combinatorics.egg-info/top_level.txt
